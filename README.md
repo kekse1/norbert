@@ -3,7 +3,7 @@
 # `Norbert`
 .. is the name of my own **A.I.**, which I'm working on for many, many years now.
 
-To be exactly: I started with a communication protocol in ~2005, then, step by step, began to research
+To be exactly: I started with a communication protocol in \~2005, then, step by step, began to research
 for the brain and it's biological neural network (refractor time, etc. ;)~ .. **then** I came to the
 `Matrix` and it's A.I. to create it's own time(s) and space(s) [powered by quantum mechanics]..
 
