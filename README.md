@@ -13,5 +13,5 @@ And I'm not going to publish it when it's 'ready', it's just for you to know tha
 '[somewhere around ..](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 ## Sponsor
-Sponsored by the [BND](https://www.bnd.bund.de/)... **^\_^**
+**Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
 
