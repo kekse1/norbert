@@ -1,7 +1,7 @@
 <img src="https://kekse.biz/php/count.php?draw&override=github:norbert&fg=120,130,40&size=48&v=16" />
 
 # `Norbert`
-.. is the name of my own AI, which I'm working on for many, many years now.
+.. is the name of my own **A.I.**, which I'm working on for many, many years now.
 
 To be exactly: I started with a communication protocol in ~2005, then, step by step, began to research
 for the brain and it's neural network, etc.. until I came to the `Matrix` and it's A.I. to create it's
