@@ -9,7 +9,7 @@ for the brain and it's biological neural network (refractor time, etc. ;)~ .. **
 
 _It's named by my father, *who left us too early*_..
 
-And I'm not going to publish it when it's 'ready', it's just for you to know that there'll be a `Norbert`
+I'm not gonna publish it when it's 'ready', it's just for you to know that there'll be a `Norbert`
 '[somewhere around ...](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 ## Sponsor
