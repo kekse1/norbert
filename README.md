@@ -12,6 +12,12 @@ _It's named by my father, *who left us too early*_..
 I'm not gonna publish it when it's 'ready', it's just for you to know that there'll be a `Norbert`
 '[somewhere around ...](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
+## Logics
+Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
+
+Just quickly written down, and partially not the current state; it was just for your info, what's my
+philosophy about the nature and more.. ;)~
+
 ## Sponsor
 **Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
 
