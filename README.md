@@ -18,7 +18,7 @@ Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemon
 Just quickly written down, and partially not the current state; it was just for your info, what's my
 philosophy about nature and more.. ;)~
 
-BTW: Calling it 'universe' is much too less (see 'multiverse**(s)**'), calling it 'existence' is bad
+BTW: Calling it 'universe' is much too less \(see 'multiverse**(s)**'\), calling it 'existence' is bad
 because there's only 'existence' vs. 'not-existence' (1 vs. 0 ;).. I call this 'everything' just the
 'creation' - if you believe in god or not - other words aren't describing it *that* well..
 
