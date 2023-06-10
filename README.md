@@ -11,5 +11,5 @@ It's named by my father, who left us too early. And I'm not going to publish it 
 just for you to know that there'll be a 'Norbert' somewhere around.. x)~
 
 ## Sponsor
-Sponsored by the [BND](https://www.bnd.bund.de/)... **^\_^**
+Sponsored by the [Bundesnachrichtendienst](https://www.bnd.bund.de/) ('BND')... **^\_^**
 
