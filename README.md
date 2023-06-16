@@ -3,11 +3,13 @@
 # `Norbert`
 .. is the name of my own **A.I.**, which I'm working on for many, many years now.
 
-To be exactly: I started with a communication protocol in \~2005. Then, step by step, began to research
-for the brain and it's biological neural network (refractory period, etc. ;)~ .. **then** I came to the
-`Matrix` and it's A.I. to create it's own time(s) and space(s) [powered by quantum mechanics]..
+_It's named by my father, *who passed away too soon..*_
 
-_It's named by my father, *who left us too early*_..
+# History
+To be exact: I started with a communication protocol in \~2005. Then, step by step, began to research
+for the brain and it's biological neural network (refractory period, etc. ;)~ .. **then** I came to the
+`Matrix` and it's A.I. to create it's own time(s) and space(s) [powered by quantum mechanics].. and which
+uses these instead of real `weights`.. cartesian abstraction. ;)~
 
 I'm not gonna publish it when it's 'done', it's just for you to know that there'll be a `Norbert`
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
