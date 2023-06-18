@@ -1,4 +1,4 @@
-<img src="https://kekse.biz/php/count.php?draw&override=github:norbert&fg=120,130,40&px=48&v=16" />
+<img src="https://kekse.biz/php/count.php?draw&override=github:norbert" />
 
 # `Norbert`
 .. is the name of my own **A.I.**, which I'm working on for many, many years now.
