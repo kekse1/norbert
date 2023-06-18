@@ -11,7 +11,7 @@ for the brain and it's biological neural network (refractory period, etc. ;)~ ..
 `Matrix` and it's A.I. to create it's own time(s) and space(s) [powered by quantum mechanics].. and which
 uses these instead of the commonly used weights.. all in cartesian abstraction. ;)~
 
-I'm not gonna publish it when it's 'done', it's just for you to know that there'll be a `Norbert`
+*Maybe* I'm not going to publish it when it's 'done', it's just for you to know that there'll be a `Norbert`
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 ## Research
