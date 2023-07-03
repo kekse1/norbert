@@ -1,11 +1,10 @@
 <img src="https://kekse.biz/php/count.php?draw&override=github:norbert" />
 
 # `Norbert`
-.. is the name of my own **A.I.**, which I'm working on for many, many years now.
-
-_It's named by my father, *who passed away too soon..*_
-
 ![Logo](logo.png)
+
+.. is the name of my own **A.I.**, which I'm working on for many, many years now.
+_It's named by my father, *who passed away too soon..*_
 
 # History
 To be exact: I started with a communication protocol in \~2005. Then, step by step, began to research
