@@ -5,6 +5,8 @@
 
 _It's named by my father, *who passed away too soon..*_
 
+![Logo](logo.png)
+
 # History
 To be exact: I started with a communication protocol in \~2005. Then, step by step, began to research
 for the brain and it's biological neural network (refractory period, etc. ;)~ .. **then** I came to the
