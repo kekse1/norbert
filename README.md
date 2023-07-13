@@ -1,6 +1,4 @@
 <img src="https://kekse.biz/php/count.php?draw&override=github:norbert&text=`Norbert`" />
-
-# `Norbert`
 ![Logo](logo.png)
 
 .. is the name of my own **A.I.**, which I'm working on for many, many years now.
