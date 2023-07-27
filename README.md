@@ -14,6 +14,10 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 *Maybe* I'm not going to publish it when it's 'done', it's just for you to know that there'll be a `Norbert`
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
+## Status
+The theoretical work is (nearly) finished.. now just have to specify the real details, until I'm able to
+implement the system. At all.. if I'm not to stupid for such abstract codes...
+
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
 
