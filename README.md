@@ -16,7 +16,10 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 
 ## Status
 The theoretical work is (nearly) finished.. now just have to specify the real details, until I'm able to
-implement the system. At all.. if I'm not to stupid for such abstract codes...
+implement the system. At all.. if I'm not to stupid for such _really highly_ abstracted codes... BTW., as
+my current favorite language is JavaScript, the used platform will be [`Node.js`](https://nodejs.org/). ^_^
+
+The `quantum field` logik was already finished much earlier, so now it's time to scale it in real usage.
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
