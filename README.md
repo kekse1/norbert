@@ -32,7 +32,7 @@ it 'as is', as there could also be many multiverses.. ;) .. calling it 'existenc
 there's the 'existence' vs. 'non-existence' (1 vs. 0).. I call this 'everything' just the 'creation';
 if you believe in god or not - other words aren't describing it *that* well..
 
-_PS_.. password 'kuchen'.
+_PS_: Password 'kuchen'.
 
 ## Sponsor
 **Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
