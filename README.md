@@ -1,4 +1,4 @@
-<img src="https://kekse.biz/php/count.php?draw&override=github:norbert&text=`Norbert`" />
+<img src="https://kekse.biz/php/count.php?draw&override=github:norbert&text=`Norbert`&draw" />
 
 ![Logo](logo.png)
 
