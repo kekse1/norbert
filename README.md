@@ -21,6 +21,10 @@ my current favorite language is JavaScript, the used platform will be [`Node.js`
 
 The `quantum field` logik was already finished much earlier, so now it's time to scale it in real usage.
 
+### Update \[2024-02-15\]
+I decided to use **`BigInt`**. Thought it'd be more overhead, but the numerical values got much more
+abstract energy..! AND this way I'm able to scale my database/relations/carrier much better.. **:-)**
+
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
 
