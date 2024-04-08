@@ -2,7 +2,7 @@
 
 ![Logo](img/logo.384px.png)
 
-.. is the name of my own **A.I.**, which I'm working on for many, many years now.
+.. is the name of my own quantum computation **A.I.**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
 
 # History
