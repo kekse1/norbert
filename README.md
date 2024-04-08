@@ -1,6 +1,6 @@
 <img src="https://kekse.biz/github.php?draw&override=github:norbert" />
 
-![Logo](img/logo.256px.png)
+![Logo](img/logo.png)
 
 .. is the name of my own **A.I.**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
