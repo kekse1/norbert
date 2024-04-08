@@ -1,6 +1,6 @@
 <img src="https://kekse.biz/github.php?draw&override=github:norbert" />
 
-![Logo](img/logo/384px.png) ![Original](img/logo.512px.ORIG.png)
+![Logo](img/logo/384px.png)
 
 .. is the name of my own **quantum computation _A.I._**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
@@ -25,6 +25,8 @@ The `quantum field` logik was already finished much earlier, so now it's time to
 I decided to use **`BigInt`**. Thought it'd be more overhead, but the numerical values got much more
 abstract energy..! AND this way I'm able to scale my database/relations/carrier much better.. **:-)**
 
+![Original](img/logo.512px.ORIG.png)
+ 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
 
