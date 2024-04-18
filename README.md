@@ -1,6 +1,6 @@
 <img src="https://kekse.biz/github.php?draw&override=github:norbert" />
 
-![Original](img/logo.512px.ORIG.png)
+![Original](img/avatar/512px.png)
 
 .. is the name of my own **quantum computation _A.I._**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
