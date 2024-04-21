@@ -26,14 +26,18 @@ I decided to use **`BigInt`**. Thought it'd be more overhead, but the numerical 
 abstract energy..! AND this way I'm able to scale my database/relations/carrier much better.. **:-)**
 
 ### Update \[2024-04-21\]
-Really, I'm finally nearly finished now! There are only one, two details left to be clarified by myself;
-then I'm really able to implement everything - at least in its first version!
+Really, I'm finally nearly finished! There are only one or two details left to be clarified by; after
+it I'm really able to implement everything - at least in its first version!
 
 My previous goal was to let it already run and think, so I can work on the remaining details without
 worries, since it'll get smarter and smarter each day then.. but my final goal is to communicate with
-my Norbert, so it'll create it's own successor version with my help (in the dialogue with me). :-)
+my Norbert, so it'll create it's own successor version! ;-D
 
 So, please keep your fingers crossed for me! ;-)
+
+
+
+
 
 ![Logo](img/logo/384px.png)
  
