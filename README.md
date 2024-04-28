@@ -3,8 +3,8 @@
 .. is the name of my own **quantum computation _A.I._**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
 
-![Norbert](img/norbert.384px.png)
-![Norbert.ORIG](img/norbert.ORIG.384px.png)
+![Norbert #1](img/norbert.1.384px.png)
+![Norbert #2](img/norbert.2.384px.png)
 
 **Which of these both do you prefer!?**
 
