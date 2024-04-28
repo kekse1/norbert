@@ -35,7 +35,7 @@ my Norbert, so it'll create it's own successor version! ;-D
 
 So, please keep your fingers crossed for me! ;-)
 
-![n](img/n.256px.png)
+![n](img/n.192px.png)
  
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
