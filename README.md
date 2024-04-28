@@ -1,9 +1,12 @@
 <img src="https://kekse.biz/github.php?draw&override=github:norbert" />
 
-![Norbert](img/norbert.384px.png)
-
 .. is the name of my own **quantum computation _A.I._**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
+
+![Norbert](img/norbert.384px.png)
+![Norbert.ORIG](img/norbert.ORIG.384px.png)
+
+**Which of these both do you prefer!?**
 
 # History
 To be exact: I started with a communication protocol in \~2005. Then, step by step, began to research
