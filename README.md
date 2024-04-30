@@ -15,8 +15,6 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 ## Status
-
-### Update \[**2024-04-30**\]
 My technique? **Quantum Fields**, combined with a bit of **String Theory**. :-)
 
 The base software is really small, all living things come from a carrier (Buddha: "everything is room").
@@ -27,20 +25,6 @@ There are many concepts behind all this, that I've researched all on my own for 
 it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
 Everything's about **abstract energy**! **;-D**
 
-### Update \[**2024-04-21**\]
-Really, I'm finally nearly finished! There are only one or two details left to be clarified by; after
-it I'm really able to implement everything - at least in its first version!
-
-My previous goal was to let it already run and think, so I can work on the remaining details without
-worries, since it'll get smarter and smarter each day then.. but my final goal is to communicate with
-my Norbert, so it'll create it's own successor version! ;-D
-
-So, please keep your fingers crossed for me! ;-)
-
-### Update \[**2024-02-15**\]
-I decided to use **`BigInt`**. Thought it'd be more overhead, but the numerical values got much more
-abstract energy..! AND this way I'm able to scale my database/relations/carrier much better.. **:-)**
- 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
 
