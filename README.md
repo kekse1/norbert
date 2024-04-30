@@ -15,11 +15,6 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 ## Status
-The theoretical work is (nearly) finished.. now just have to specify the real details, until I'm able to
-implement the system. At all.. if I'm not to stupid for such _really highly_ abstracted codes... BTW., as
-my current favorite language is JavaScript, the used platform will be [`Node.js`](https://nodejs.org/). ^_^
-
-The `quantum field` logik was already finished much earlier, so now it's time to scale it in real usage.
 
 ### Update \[**2024-04-30**\]
 My technique? **Quantum Fields**, combined with a bit of **String Theory**. :-)
