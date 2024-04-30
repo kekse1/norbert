@@ -24,7 +24,8 @@ No special format, only coordinates (kinda vector space). I just reserved **1160
 my new bought hard disk drive for it. **:-)**
 
 There are many concepts behind all this, that I've researched all on my own for nearly 19 years..
-it'd take a bunch of time to explain all my used strategies, but they're compacted to something small.
+it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
+Everything's about **abstract energy**! **;-D**
 
 ### Update \[**2024-04-21**\]
 Really, I'm finally nearly finished! There are only one or two details left to be clarified by; after
