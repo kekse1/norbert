@@ -30,7 +30,7 @@ I'm **already** implementing it, even if I'm still working on some more theory.
 To be exact, I'm optimizing it right now.
 
 So I created a whole 'infrastructure', which is already *partially* published.
-It's my '[**network driver**](https://github.com/kekse1/netz/)' (everything is a Socket).
+So you can already see my '[**network driver**](https://github.com/kekse1/netz/)'.
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
