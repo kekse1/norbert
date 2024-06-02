@@ -29,7 +29,7 @@ Everything's about **abstract energy**! **;-D**
 I'm **already** implementing it, even if I'm still working on some more theory.
 To be exact, I'm optimizing it right now.
 
-Therefore I created a whole 'infrastructure', which is *partially* published.
+So I created a whole 'infrastructure', which is already *partially* published.
 It's my '[**network driver**](https://github.com/kekse1/netz/)' (everything is a Socket).
 
 ## Research
