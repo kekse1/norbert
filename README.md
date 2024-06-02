@@ -25,6 +25,13 @@ There are many concepts behind all this, that I've researched all on my own for 
 it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
 Everything's about **abstract energy**! **;-D**
 
+## Infrastructure
+I'm really **already** implementing it, even if I'm still working on some more theory.
+To be exact, I'm optimizing it right now.
+
+Therefore I created a whole 'infrastructure', which is *partially* published.
+It's my '[**network driver**](https://github.com/kekse1/netz/)' (everything is a Socket).
+
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
 
