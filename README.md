@@ -26,7 +26,7 @@ it'd take a bunch of time to explain all my strategies, but they're compacted to
 Everything's about **abstract energy**! **;-D**
 
 ## Infrastructure
-I'm really **already** implementing it, even if I'm still working on some more theory.
+I'm **already** implementing it, even if I'm still working on some more theory.
 To be exact, I'm optimizing it right now.
 
 Therefore I created a whole 'infrastructure', which is *partially* published.
