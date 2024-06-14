@@ -25,6 +25,8 @@ There are many concepts behind all this, that I've researched all on my own for 
 it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
 Everything's about **abstract energy**! **;-D**
 
+And the ... `bipolar relativism`.
+
 ## Infrastructure
 I'm **already** implementing it, even if I'm still working on some more theory.
 To be exact, I'm optimizing it right now.
@@ -50,3 +52,4 @@ if you believe in god or not - other words aren't describing it *that* well..
 **Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
 
 ![kekse.biz](favicon.png)
+
