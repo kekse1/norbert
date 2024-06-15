@@ -18,7 +18,7 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String Theory**. :-)
 
 The base software is really small, all living things come from a carrier (Buddha: "everything is room").
-No special format, only coordinates (kinda vector space). I just reserved **13194139533312 Bytes** on
+No special format, only coordinates (kinda vector space). I just reserved **13.194.139.533.312 Bytes** on
 my new bought hard disk drive for it.
 
 There are many concepts behind all this, that I've researched all on my own for nearly 19 years..
