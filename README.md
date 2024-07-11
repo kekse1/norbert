@@ -51,5 +51,7 @@ if you believe in god or not - other words aren't describing it *that* well..
 # Sponsor
 **Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
 
-![kekse.biz](favicon.png)
+<a href="favicon.512px.png" target="_blank">
+<img src="favicon.png" alt="Favicon" />
+</a>
 
