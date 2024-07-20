@@ -25,14 +25,9 @@ There are many concepts behind all this, that I've researched all on my own for 
 it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
 Everything's about **abstract energy**! **;-D**
 
-And the ... `bipolar relativism`.
-
-## Infrastructure
-I'm **already** implementing it, even if I'm still working on some more theory.
-To be exact, I'm optimizing it right now.
-
-So I created a whole 'infrastructure', which is already *partially* published.
-It's only my '[**network driver**](https://github.com/kekse1/netz/)'.
+### Update (**2024-07-20**)
+The **first** version seems to be nearly done.. but another major update to **v2.0.0** will come,
+since I'm already planning the **optimized** rotation algorithm.
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
