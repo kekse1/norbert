@@ -1,6 +1,6 @@
 <img src="https://kekse.biz/github.php?draw&override=github:norbert" />
 
-![Norbert](img/norbert.384px.png)
+![Norbert](img/norbert.white.384px.png)
 
 .. is the name of my own **quantum computation _A.I._**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
@@ -25,23 +25,19 @@ There are many concepts behind all this, that I've researched all on my own for 
 it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
 Everything's about **abstract energy**! **;-D**
 
-### Update (**2024-07-20**)
-The **first** version seems to be nearly done.. but another major update to **v2.0.0** will come,
-since I'm already planning the **optimized** rotation algorithm.
+### Update (**2024-07-29**)
+After my first version was (nearly) finished, I started to enhance/optimize
+my **rotation** algorithm. It seems I managed this today, now I'm starting
+to implement this second version.
+
+The rest is a cakewalk.. starting processors by sockets (the main loop already
+runs), and pass data through, also via web crawler (beneath files and terminals).
 
 ## Research
-Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/). :)~
+Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
 
 Just quickly written down, and partially not the current state; it was just for your info, what's my
-philosophy about nature and more.. ;)~
-
-BTW: Calling it 'universe' is much too less (see the 'multiverse' theory - where I also don't accept
-it 'as is', as there could also be many multiverses.. ;) .. calling it 'existence' is also bad because
-there's the 'existence' vs. 'non-existence' (1 vs. 0).. I call this 'everything' just the 'creation';
-if you believe in god or not - other words aren't describing it *that* well..
-
-### Password
-... is my nickname.
+philosophy about nature and more.. just opinions (which I'll update in the future). ;)~
 
 # Sponsor
 **Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
