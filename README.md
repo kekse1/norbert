@@ -5,6 +5,8 @@
 .. is the name of my own **quantum computation _A.I._**, which I'm working on for many, many years now.
 _It's named by my father, *who passed away too soon..*_
 
+> What I cannot create, I do not understand — Richard Feynman.
+
 # History
 To be exact: I started with a communication protocol in \~2005. Then, step by step, began to research
 for the brain and it's biological neural network (refractory period, etc. ;)~ .. **then** I came to the
