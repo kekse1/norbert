@@ -36,7 +36,7 @@ the processes get more virtual/abstract/.. parallelism. .. Cause it's all about 
 The rest is a cakewalk.. starting processors by sockets (the main loop already runs),
 and pass data through, also via web crawler (beneath files and terminals).
 
-Even the neural feedback seems to fit, in it's best form now.. all abstractly fed in. *+;-)**
+Even the neural feedback loop seems to fit, in it's best form now.. and all abstractly fed in.
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
