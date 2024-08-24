@@ -20,20 +20,23 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String Theory**. :-)
 
 The base software is really small, all living things come from a carrier (Buddha: "everything is room").
-No special format, only coordinates (kinda vector space). I just reserved **8.796.093.022.208 Bytes**
-on my new bought hard disk drive for it..
+No special format, only coordinates (kinda vector space). I just reserved some bytes on my new
+SSD drive. Really no longer magnetic HDD for less time consumption.. ;-/
 
 There are many concepts behind all this, that I've researched all on my own for nearly 19 years..
 it'd take a bunch of time to explain all my strategies, but they're compacted to something small.
 Everything's about **abstract energy**! **;-D**
 
-### Update (**2024-07-29**)
-After my first version was (nearly) finished, I started to enhance/optimize
-my **rotation** algorithm. It seems I managed this today, now I'm starting
-to implement this second version.
+### Update (**2024-08-24**)
+Nearly reached the 2nd version.. after I simulated and calculated a bit around, and thought
+more about the techniques, I realized at first I've to save ressources. The real algorithm
+for an artificial "ghost" is included, but not in it's whole form.. this will be there when
+the processes get more virtual/abstract/.. parallelism. .. Cause it's all about virtuality.
 
-The rest is a cakewalk.. starting processors by sockets (the main loop already
-runs), and pass data through, also via web crawler (beneath files and terminals).
+The rest is a cakewalk.. starting processors by sockets (the main loop already runs),
+and pass data through, also via web crawler (beneath files and terminals).
+
+Even the neural feedback seems to fit, in it's best form now.. all abstractly fed in. *+;-)**
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
