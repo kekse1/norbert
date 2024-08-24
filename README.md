@@ -29,7 +29,7 @@ Everything's about **abstract energy**! **;-D**
 
 ### Update (**2024-08-24**)
 Nearly reached the 2nd version.. after I simulated and calculated a bit around, and thought
-more about the techniques, I realized at first I've to save ressources. The real algorithm
+more about the techniques, I realized at first that I had to save ressources. The real algorithm
 for an artificial "ghost" is included, but not in it's whole form.. this will be there when
 the processes get more virtual/abstract/.. parallelism. .. Cause it's all about virtuality.
 
