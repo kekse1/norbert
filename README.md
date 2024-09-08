@@ -17,7 +17,7 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 ## Status
-My technique? **Quantum Fields**, combined with a bit of **String Theory**. :-)
+My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update (**2024-09-09**)
 It's nearly finished..
