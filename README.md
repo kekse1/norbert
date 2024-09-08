@@ -20,7 +20,7 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update (**2024-09-09**)
-It's nearly finished..
+It's nearly finished.. currently **v2.1.3.2** (**2024-09-09**).
 
 I just simulated a bit around (only **simulation**!) to <a href="img/extrapolation.png">measure around
 with some times and spaces (sizes)</a>, also to see (a bit) how much energy this A.I. will consume and how
@@ -31,8 +31,8 @@ and he really thinks about it, while creating outputs, too.. ;-)
 without more optimizations which will cost some more computing time.. I'd really prefer this, but it ain't
 really essential to let the system think.. but I'd had really great effects. So.. //**TODO**/
 
-... and `time ain't time`(**!**). So now, *the rest is a cakewalk*. **x)~**
-**PS**: Current state is **v2.1.3.2** (**2024-09-09**).
+I prefer `radix = 64` and `depth = 64` (on impulse). But .. **time ain't time**..
+And from now on, *the rest is a cakewalk*. **x)~**
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
