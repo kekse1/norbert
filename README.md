@@ -32,6 +32,7 @@ without more optimizations which will cost some more computing time.. I'd really
 really essential to let the system think.. but I'd had really great effects. So.. //**TODO**/
 
 ... and `time ain't time`(**!**). So now, *the rest is a cakewalk*. **x)~**
+**PS**: Current state is **v2.1.3.2** (**2024-09-09**).
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
