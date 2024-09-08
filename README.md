@@ -22,12 +22,12 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 ### Update (**2024-09-09**)
 It's nearly finished..
 
-I just simulated a bit around (only **simulation**!) to <a href="img/measure-simulation.png">measure around
+I just simulated a bit around (only **simulation**!) to <a href="img/extrapolations.png">measure around
 with some times and spaces (sizes)</a>, also to see (a bit) how much energy this A.I. will consume and how
 long I have to wait for the "training" (actually it ain't real 'training': I just give my `norbert` some input
 and he really thinks about it, while creating outputs, too.. ;-)
 
-<a href="img/measure-simulation.png">So here are some **extrapolations** for the real **basic** routines</a>,
+<a href="img/extrapolations.png">So here are some **extrapolations** for the real **basic** routines</a>,
 without more optimizations which will cost some more computing time.. I'd really prefer this, but it ain't
 really essential to let the system think.. but I'd had really great effects. So.. //**TODO**/
 
