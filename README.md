@@ -20,7 +20,7 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update (**2024-09-09**)
-It's nearly finished.. currently **v2.1.4.4** (**2024-09-09**).
+It's nearly finished.. currently **v2.1.6.2** (**2024-09-10**).
 
 ### First Example Screenshot
 There's still some things **TODO**, mostly in the **interface** itself;
