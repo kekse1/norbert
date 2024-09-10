@@ -22,11 +22,11 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 ### Update (**2024-09-09**)
 It's nearly finished.. currently **v2.1.6.2** (**2024-09-10**).
 
-### Test Screenshot
+### First Screenshot
 There's still some things **TODO**, mostly in the **interface** itself;
 the real base (data structures and algorithms) are _nearly_ **finished**. **:-)**
 
-![Test Screenshot](img/test-screenshot.png)
+![First Screenshot](img/screenshot.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
