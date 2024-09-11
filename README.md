@@ -19,6 +19,10 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 ## Status
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
+> [!TIP]
+> **`Die Verbindung von Vergangenheit und Zukunft in eine Gegenwart; ...
+>  .. den bewussten Augenblick. Eine Reflexion in der Umkehr der Zeit!`**
+
 ### Update (**2024-09-09**)
 It's nearly finished.. currently **v2.1.7.0** (**2024-09-11**).
 
