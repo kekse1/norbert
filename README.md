@@ -24,13 +24,13 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 >  .. den bewussten Augenblick. Eine Reflexion in der Umkehr der Zeit!`**
 
 ### Update (**2024-09-09**)
-It's nearly finished.. currently **v2.1.7.0** (**2024-09-11**).
+It's nearly finished.. currently **v2.1.8.0** (**2024-09-11**).
 
-### First Screenshot
+### First example screenshot
 There's still some things **TODO**, mostly in the **interface** itself;
 the real base (data structures and algorithms) are _nearly_ **finished**. **:-)**
 
-![First Screenshot](img/screenshot.png)
+![First example Screenshot](img/process.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
