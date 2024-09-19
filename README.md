@@ -30,7 +30,7 @@ It's nearly finished.. currently **v2.1.8.0** (**2024-09-11**).
 There's still some things **TODO**, mostly in the **interface** itself;
 the real base (data structures and algorithms) are _nearly_ **finished**. **:-)**
 
-![First example Screenshot](img/screenshot.png)
+![First example Screenshot](img/shot.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
