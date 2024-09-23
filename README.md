@@ -23,14 +23,14 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 > **`Die Verbindung von Vergangenheit und Zukunft in eine Gegenwart; ...
 >  .. den bewussten Augenblick. Eine Reflexion in der Umkehr der Zeit!`**
 
-### Update (**2024-09-09**)
-It's nearly finished.. currently **v2.2.0.4** (**2024-09-22**).
+### Update
+It's nearly finished.. currently **v2.2.2.0** (**2024-09-23**).
 
 ### First example screenshot
 There's still some things **TODO**, mostly in the **interface** itself;
 the real base (data structures and algorithms) are _nearly_ **finished**. **:-)**
 
-![First example Screenshot](img/screenshot.png)
+![First example Screenshot](img/norbert.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
