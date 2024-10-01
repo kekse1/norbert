@@ -24,7 +24,7 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 >  .. den bewussten Augenblick. Eine Reflexion in der Umkehr der Zeit!`**
 
 ### Update
-It's nearly finished.. currently **v2.2.2.6** (**2024-09-23**).
+It's nearly finished.. currently **v2.2.3.2** (**2024-10-02**).
 
 ### First example screenshot
 There's still some things **TODO**, mostly in the **interface** itself;
