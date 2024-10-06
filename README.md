@@ -24,7 +24,7 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 >  .. den bewussten Augenblick. Eine Reflexion in der Umkehr der Zeit!`**
 
 ### Update
-With the next **minor** version update (currently **v2.2.7.7** at **2024-10-07**) everything
+With the next **minor** version update (currently **v2.2.7.7** @ **2024-10-07**) everything
 should be ready.
 
 Last part is the `crawler` for text/code/.. input and the conversion scripts for media input
