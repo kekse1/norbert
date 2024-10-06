@@ -28,9 +28,10 @@ With the next **minor** version update (currently **v2.2.7.7** @ **2024-10-07**)
 should be ready.
 
 Last part is the `crawler` for text/code/.. input and the conversion scripts for media input
-(so audio and video, mostly). The `console` base is already running, so I'm **already** able
-to give my Norbert some input data to think about (can also be pipe'd. Great for `ffmpeg`,
-and many other use cases).
+(so audio and video, mostly).
+
+The `console` base is working great right now, so I'm **already** able to give my Norbert
+some input data to think about (can also be pipe'd. Great for `ffmpeg`, and many other use cases).
 
 ### Example screenshot
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
