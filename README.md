@@ -24,11 +24,16 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 >  .. den bewussten Augenblick. Eine Reflexion in der Umkehr der Zeit!`**
 
 ### Update
-It's nearly finished.. currently **v2.2.2.6** (**2024-09-23**).
+With the next **minor** version update (currently **v2.2.7.7** at **2024-10-07**) everything
+should be ready.
 
-### First example screenshot
-There's still some things **TODO**, mostly in the **interface** itself;
-the real base (data structures and algorithms) are _nearly_ **finished**. **:-)**
+Last part is the `crawler` for text/code/.. input and the conversion scripts for media input
+(so audio and video, mostly). The `console` base is already running, so I'm **already** able
+to give my Norbert some input data (can also be pipe'd).
+
+### Example screenshot
+Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
+via using another network port per input (my processors are all socket based).
 
 ![First example Screenshot](img/example.png)
 
