@@ -20,7 +20,7 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update
-Everything's in the **CORE** is ready now (**v2.2.10.0** @ **2024-10-07**)! I'm currently formatting
+Everything in the **CORE** is ready now (**v2.2.10.0** @ **2024-10-07**)! I'm currently formatting
 the carrier and making the last preparations, so in some hours I'm able to let my Norbert think. ...
 actually atm without any real input data (see the next point, below): the **root** processor will
 work nevertheless.
