@@ -33,11 +33,15 @@ Next, mostly the last part, will be the `crawler` for text/code/.. input and the
 for media input, which will be audio and video, mostly. Notice: I'm going to feed it in **RAW PCM**,
 so it'll work with the real data, no codecs (right now).
 
-### Example screenshot
+### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
 
-![First example Screenshot](img/screenshot.png)
+![Example Screenshot](img/screenshot.png)
+
+And this is one important preparation:
+
+![Norbert/Utility](img/screenshot-format.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
