@@ -20,13 +20,16 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update
-With the next **minor** version update (currently **v2.2.7.7** @ **2024-10-07**) everything
-should be ready.
+Everything's in the **CORE** is ready now (**v2.2.10.0** @ **2024-10-07**)! I'm currently formatting
+the carrier and making the last preparations, so in some hours I'm able to let my Norbert think. ...
+actually atm without any real input data (see the next point, below): the **root** processor will
+work nevertheless.
 
-Last part is the `crawler` for text/code/.. input and the conversion scripts for media input
-(so audio and video, mostly).
+Next, mostly the last part, will be the `crawler` for text/code/.. input and the conversion scripts
+for media input, which will be audio and video, mostly. Notice: I'm going to feed it in **RAW PCM**,
+so it'll work with the real data, no codecs (right now).
 
-The `console` base is working great right now, so I'm **already** able to give my Norbert
+And the `console` is also working great right now, so I'm **already** able to give my Norbert
 some input data to think about (can also be pipe'd. Great for `ffmpeg`, and many other use cases).
 
 ### Example screenshot
