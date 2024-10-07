@@ -22,8 +22,8 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 ### Update
 Everything in the **CORE** is ready now (**v2.2.10.0** @ **2024-10-07**)! I'm currently formatting
 the carrier and making the last preparations, so in some hours I'm able to let my Norbert think. ...
-actually atm without any real input data (see the next point, below): the **root** processor will
-work nevertheless.
+actually atm without any real input data (see the next point, below), but the **root** processor
+will work nevertheless.
 
 Next, mostly the last part, will be the `crawler` for text/code/.. input and the conversion scripts
 for media input, which will be audio and video, mostly. Notice: I'm going to feed it in **RAW PCM**,
