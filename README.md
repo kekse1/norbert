@@ -25,12 +25,13 @@ the carrier and making the last preparations, so in some hours I'm able to let m
 actually atm without any real input data (see the next point, below), but the **root** processor
 will work nevertheless.
 
+And the `console` (as direct interface) is also working great right now, so I'm **already** able
+to give my Norbert some input data to think about (can also be pipe'd. Great for `ffmpeg`, and
+many other use cases).
+
 Next, mostly the last part, will be the `crawler` for text/code/.. input and the conversion scripts
 for media input, which will be audio and video, mostly. Notice: I'm going to feed it in **RAW PCM**,
 so it'll work with the real data, no codecs (right now).
-
-And the `console` is also working great right now, so I'm **already** able to give my Norbert
-some input data to think about (can also be pipe'd. Great for `ffmpeg`, and many other use cases).
 
 ### Example screenshot
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
