@@ -39,10 +39,6 @@ via using another network port per input (my processors are all socket based).
 
 ![Example Screenshot](img/screenshot.png)
 
-And this is one important preparation:
-
-![Norbert/Utility](img/screenshot-format.png)
-
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
 
