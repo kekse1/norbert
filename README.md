@@ -39,9 +39,9 @@ via using another network port per input (my processors are all socket based).
 
 ![Example Screenshot](img/screenshot.png)
 
-And this is one important preparation:
+And this is one of some more learning methods/functions (here from a directory).
 
-![Norbert/Utility](img/screenshot-format.png)
+![`learn` Example Screenshot](img/learn.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
