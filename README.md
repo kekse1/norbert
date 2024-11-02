@@ -41,7 +41,7 @@ via using another network port per input (my processors are all socket based).
 
 And this is one of some more learning methods/functions (here from a directory).
 
-![`learn` Example Screenshot](img/learn.png)
+![`learn` Example Screenshot](img/screenshot.learn.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
