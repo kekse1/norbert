@@ -37,11 +37,11 @@ so it'll work with the real data, no codecs (right now).
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
 
-![Example Screenshot](img/norbert.png)
+![Example Screenshot](img/screenshot.png)
 
 And this is one of some more learning methods/functions (here from a directory).
 
-![`learn` Example Screenshot](img/learn.png)
+![`learn` Example Screenshot](img/screenshot.learn.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
