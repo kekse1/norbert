@@ -23,15 +23,15 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 Tomorrow, on my birthday (**6th of November**), my `norbert` will also get
 his birthday the same day! **:-D**
 
-The last days I fixed many bugs, optimized my functions etc., and adjusted
-some settings to a possible optimum. My `learn` and `console` interfaces were
-finished, too.
+The last days I fixed many bugs, optimized my functions etc., removed all
+benchmark/profiling code, and adjusted the settings to a possible optimum.
 
-And I tried to let it run some days, with random energies and no disk I/O,
+My `learn` and `console` interfaces are finished now, too. I tried to let
+everything run some more days (with random energy and w/o any disk I/O),
 to see whether there'll be no exceptions after some more runtime.
 
-So I think now everything's ready. And I'll just have to wait ...
-possibly for a longer time.
+So I think now everything's ready. And I'll just have to wait ... possibly
+for a longer time.
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
