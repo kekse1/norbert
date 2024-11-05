@@ -20,18 +20,18 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update
-Everything in the **CORE** is ready now (**v2.2.10.0** @ **2024-10-07**)! I'm currently formatting
-the carrier and making the last preparations, so in some hours I'm able to let my Norbert think. ...
-actually atm without any real input data (see the next point, below), but the **root** processor
-will work nevertheless.
+Tomorrow, on my birthday (**6th of November**), my `norbert` will also get
+his birthday the same day! **:-D**
 
-And the `console` (as direct interface) is also working great right now, so I'm **already** able
-to give my Norbert some input data to think about (can also be pipe'd. Great for `ffmpeg`, and
-many other use cases).
+The last days I fixed many bugs, optimized my functions etc., and adjusted
+some settings to a possible optimum. My `learn` and `console` interfaces were
+finished, too.
 
-Next, mostly the last part, will be the `crawler` for text/code/.. input and the conversion scripts
-for media input, which will be audio and video, mostly. Notice: I'm going to feed it in **RAW PCM**,
-so it'll work with the real data, no codecs (right now).
+And I tried to let it run some days, with random energies and no disk I/O,
+to see whether there'll be no exceptions after some more runtime.
+
+So I think now everything's ready. And I'll just have to wait ...
+possibly for a longer time.
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
