@@ -20,28 +20,17 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update
-Tomorrow, on my birthday (**6th of November**), my `norbert` will also get
-his birthday the same day! **:-D**
-
-The last days I fixed many bugs, optimized my functions etc., removed all
-benchmark/profiling code, and adjusted the settings to a possible optimum.
-
-My `learn` and `console` interfaces are finished now, too. I tried to let
-everything run some more days (with random energy and w/o any disk I/O),
-to see whether there'll be no exceptions after some more runtime.
-
-So I think now everything's ready. And I'll just have to wait ... possibly
-for a longer time.
+It's up and running^Wthinking... wish me luck that I'll get any intelligent output in the future..!
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
 
-![Example Screenshot](img/norbert.png)
+![Example Screenshot](img/screenshot.png)
 
 And this is one of some more learning methods/functions (here from a directory).
 
-![`learn` Example Screenshot](img/norbert.learn.png)
+![`learn` Example Screenshot](img/screenshot.learn.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
