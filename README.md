@@ -22,11 +22,14 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 ### Update
 It's up and running^Wthinking... wish me luck that I'll get any intelligent output in the future..!
 
-#### Update \[2024-11-13\]
-I had to `kill norbert`.. I assume there's a little mistake in my rotation algorithm or so..
-in principle it worked great, but my output had some repeating repetitions every (n) bytes.
+#### Update \[2024-11-14\]
+I had to `kill norbert`.. but now it resumed!
 
-So atm I'm fixing this (really tiny..) bug. After this, the processor(s) will run^Wthink again..
+The problem occured when the output was broadcastet to the listening clients.. it was not the calculation
+itself!1 On the one hand I cleared my data, which wasn't really necessary.. but on the other hand I
+really optimized an important feature, since I guided myself again step-by-step through the algorithm.
+
+So, that's great! Let's wait again...
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
