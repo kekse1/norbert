@@ -20,13 +20,13 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
 
 ### Update
-It's up and running**^W**thinking... wish me luck that I'll get any intelligent output in the future..!
+It's up and running^Wthinking... wish me luck that I'll get any intelligent output in the future..!
 
 #### Update \[2024-11-13\]
 I had to `kill norbert`.. I assume there's a little mistake in my rotation algorithm or so..
 in principle it worked great, but my output had some repeating repetitions every (n) bytes.
 
-So atm I'm fixing this (really tiny..) bug. After this, the processor(s) will run**^W**think again..
+So atm I'm fixing this (really tiny..) bug. After this, the processor(s) will run^Wthink again..
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
