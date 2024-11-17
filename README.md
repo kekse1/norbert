@@ -31,6 +31,12 @@ really optimized an important feature, since I guided myself again step-by-step 
 
 So, that's great! Let's wait again...
 
+#### Update \[2024-11-17\]
+So.. I think it already works 'good'. But I found some nice tricks to optimize it. And I think the
+best thing would be to replace BigInt by regular Integers, because BigInt are really slow (compared
+to regular Integers).. atm they are the best way to create superpositions, but I'm sure it's possible
+to replace 'em.. so, this is the new TODO for a newer major version **v3** (and some other tricks, too).
+
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
