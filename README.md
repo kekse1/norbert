@@ -42,11 +42,11 @@ optimizations, too..)!
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
 
-![Example Screenshot](img/screenshot.png)
+![Example Screenshot](img/norbert.png)
 
 And this is one of some more learning methods/functions (here from a directory).
 
-![`learn` Example Screenshot](img/screenshot.learn.png)
+![`learn` Example Screenshot](img/norbert.learn.png)
 
 ## Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
