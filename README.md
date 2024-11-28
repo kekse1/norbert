@@ -23,7 +23,7 @@ My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) *
 It's up and running^Wthinking... wish me luck that I'll get any intelligent output in the future..!
 
 ### Update \[2024-11-28\]
-Well..... the output looks "nice". I can only suppose it's "good" output. Because it got's logics!
+Well..... the output looks "nice". I can only suppose it's "good" output. Because it's "logical" data..
 But I also supposed this before, because I've got to "really train" it with contents. At the moment
 it's only pure logics..
 
