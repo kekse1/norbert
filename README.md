@@ -27,11 +27,6 @@ Well..... the output looks "nice". I can only suppose it's "good" output. Becaus
 But I also supposed this before, because I've got to "really train" it with contents. At the moment
 it's only pure logics..
 
-### Update \[2024-12-04\]
-Just upgrading to the even better version of it: with pure/real NOT and nearly absolute abstraction,
-or (depending on the context) virtuality. So everything's rotated around, without really creating
-new values.. and this is now w/ the 'law of conservation of energy'. And it's even faster than before..
-
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
