@@ -34,7 +34,7 @@ in the 'virtual brain'.. and all energies in there are also super-positioned and
 'bit of maths..
 
 ## Tokens? NO.
-I'm working with pure **byte**code (`256`), nothing like tokens or smth. like that. JFYI.
+I'm working with pure **byte**code (radix `256`), nothing like tokens or smth. like that. JFYI.
 
 > [!TIP]
 > The 'number' (also called 'figure') is a geometrical thing. ... ;-)
