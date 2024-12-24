@@ -29,6 +29,10 @@ self-organization.
 Virtuality is also best performing.. so this peace of software doesn't act with much neuron class
 instances or smth. like that, but only with digits in kinda vector space.
 
+And the last info: it works kinda 'step-wise', so every input byte causes many mega-byte movement
+in the 'virtual brain'.. and all energies in there are also super-positioned and entangled. Only
+'bit of maths..
+
 ## Tokens? NO.
 I'm working with pure **byte**code (`256`), nothing like tokens or smth. like that. JFYI.
 
