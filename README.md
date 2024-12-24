@@ -22,9 +22,9 @@ important operation is the **NOT**, btw. It's responsible for many (also emergen
 implemented in multiple 'layers', each in another 'look'.
 
 Additionally, now it doesn't work only with BigInt, but also with regular integers. Now it will run
-both features in parallel. The input (which happens **abstract** => the best!) is not only every
-input byte (I'm **not** working with tokens or smth. like that..!) but also each last output,
-so there's a real **feedback** (so the information is (also!) self organizing).
+both features in parallel. The input (which happens **abstract** => the **best**!) is not only every
+input byte (I'm **not** working with tokens or smth. like that.. pure byte-code (256)!) but also each
+last output, so there's a real **feedback** (so the information is (also!) self organizing).
 
 Virtuality is also best performing.. so the 'driver' doesn't act with much neuron class instances
 or smth. similar, but only with digits in kinda vector space.
