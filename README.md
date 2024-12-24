@@ -24,10 +24,13 @@ implemented in multiple 'layers', each in another 'look'.
 Additionally, now it doesn't work only with BigInt, but also with regular integers. Now it will run
 both features in parallel. The input (which happens **abstract** => the **best**!) is not only every
 input byte (I'm **not** working with tokens or smth. like that.. pure byte-code (256)!) but also each
-last output, so there's a real **feedback** (so the information is (also!) self organizing).
+last output, so there's a real **feedback** (so the information is (also) self organizing).
 
-Virtuality is also best performing.. so the 'driver' doesn't act with much neuron class instances
-or smth. similar, but only with digits in kinda vector space.
+Virtuality is also best performing.. so this peace of software doesn't act with much neuron class
+instances or smth. similar, but only with digits in kinda vector space.
+
+> [!TIP]
+> The 'number' (also called 'figure') is a geometrical thing. ... ;-)
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
