@@ -16,11 +16,18 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 *Maybe* I'm not going to publish it when it's 'done', it's just for you to know that there'll be a `Norbert`
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
-## Status
-My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. :-)
+## Notes
+My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. And the most
+important operation is the **NOT**, btw. It's responsible for many (also emergent) features - and is
+implemented in multiple 'layers', each in another 'look'.
 
-### Update
-It's up and running^Wthinking... wish me luck that I'll get any intelligent output in the future..!
+Additionally, now it doesn't work only with BigInt, but also with regular integers. Now it will run
+both features in parallel. The input (which happens **abstract** => the best!) is not only every
+input byte (I'm **not** working with tokens or smth. like that..!) but also each last output,
+so there's a real **feedback** (so the information is (also!) self organizing).
+
+Virtuality is also best performing.. so the 'driver' doesn't act with much neuron class instances
+or smth. similar, but only with digits in kinda vector space.
 
 ### Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
