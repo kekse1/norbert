@@ -17,7 +17,7 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
 # Status
-The current version is **v2.8.4.2**. The line count (only for the main application, not counting the library
+The current version is **v2.9.0.0**. The line count (only for the main application, not counting the library
 elements or any helper apps/scripts, etc.) is currently **8.353**. As I already said before, my 'kernel' is
 really compact, even though its power is huge.. all the concrete knowledge is (or will be) in my carrier,
 the virtual brain .. pure Virtuality.
