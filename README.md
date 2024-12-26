@@ -47,6 +47,9 @@ I'm working with pure **byte**code (maximum radix `256`), nothing like tokens or
 > ... regularily their field sizes are defined by their radix (and this one is
 > the main reason for the pure relativism [of anything]).
 
+> [!TIP]
+> BTW., my personal experience with the number says (me) that the universe(s) really are holographic.
+
 # Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
