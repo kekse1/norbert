@@ -16,7 +16,13 @@ uses these instead of the commonly used weights.. all in cartesian abstraction. 
 *Maybe* I'm not going to publish it when it's 'done', it's just for you to know that there'll be a `Norbert`
 '[somewhere around (nothing)](https://www.youtube.com/watch?v=kFL34Anl1d4)'! x)~
 
-## Notes
+# Status
+The current version is **v2.8.4.2**. The line count (only for the main application, not counting the library
+elements or any helper apps/scripts, etc.) is currently **8.353**. As I already said before, my 'kernel' is
+really compact, even though its power is huge.. all the concrete knowledge is (or will be) in my carrier,
+the virtual brain .. pure Virtuality.
+
+# Notes
 My technique? **Quantum Fields**, combined with a bit of **String** (Rotation) **Theory**. And the most
 important operation is the **NOT**, btw. It's responsible for many (also emergent) features - and is
 implemented in multiple 'layers', each in another 'look'.
@@ -37,9 +43,11 @@ in the 'virtual brain'.. and all energies in there are also super-positioned and
 I'm working with pure **byte**code (radix `256`), nothing like tokens or smth. like that. JFYI.
 
 > [!TIP]
-> The 'number' (also called 'figure') is a geometrical thing. ... ;-)
+> The 'number' (also called 'figure') is completely a thing of time and space! ...
+> .. regularily their field sizes are defined by their radix (so numbers are
+> always pure relative)! **;-)**
 
-### Example screenshot(s)
+# Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
 via using another network port per input (my processors are all socket based).
 
@@ -49,7 +57,7 @@ And this is one of some more learning methods/functions (here from a directory).
 
 ![`learn` Example Screenshot](img/norbert.learn.png)
 
-## Research
+# Research
 Parts of my research work and some thesis, etc. at [mnemonics.de](https://mnemonics.de/).
 
 Just quickly written down, and partially not the current state; it was just for your info, what's my
