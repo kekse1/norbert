@@ -44,8 +44,8 @@ I'm working with pure **byte**code (maximum radix `256`), nothing like tokens or
 
 > [!TIP]
 > The 'number' (also called 'figure') is completely a thing of time and space!
-> ... regularily their field sizes are defined by their radix(/base) (which is the
-> reason why numbers are always pure relative..);
+> ... regularily their field sizes are defined by their radix (and this one is
+> the main reason for the pure relativism [of anything]..);
 
 # Example screenshot(s)
 Also visible: not all of my **profiles**, to (e.g..) easily decide the parameters for each data
