@@ -68,7 +68,7 @@ philosophy about nature and more.. just opinions (which I'll update in the futur
 # Sponsor
 **Thanks** to the [BND](https://www.bnd.bund.de/)... **^\_^**
 
-<a href="favicon.512px.png" target="_blank">
+<a href="https://kekse.biz/">
 <img src="favicon.png" alt="Favicon" />
 </a>
 
